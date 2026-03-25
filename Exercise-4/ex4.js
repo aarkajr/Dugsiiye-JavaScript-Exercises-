@@ -1,4 +1,4 @@
-//  EXERCISE#4  
+//  EXERCISE#4  part 1
 
 // N.B   I used function return 
 
@@ -28,3 +28,7 @@ const ToAdd = function(a,b){
 ToAdd(100,10)  // result 110
 ToAdd(1,10)    // result 11
 ToAdd(12,10)   // result 22
+
+
+
+
