@@ -1,0 +1,9 @@
+{
+    "patientName" : "Ali",
+    "City"     : "Kismayo",
+    "Age"         :  39,
+    "problem"      : "knee pain",
+    "Personal Details" :[
+        {"Educaton": "Master Degree", "Status,": "Married", "Current Situation": "Empolyee"}
+    ]
+}
